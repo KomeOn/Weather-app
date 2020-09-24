@@ -47,3 +47,14 @@ button{
     color: white;
     padding: 8px;
 }
+
+.box{
+    padding: 4%;
+    margin: 0xp;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.box:hover{
+    background-color: lightgray;
+}
